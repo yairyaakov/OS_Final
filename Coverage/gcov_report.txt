@@ -1,0 +1,81 @@
+File 'Network/src/Server.cpp'
+Lines executed:90.48% of 147
+Creating 'Server.cpp.gcov'
+
+File 'DataStructures/Include/Graph.h'
+Lines executed:100.00% of 4
+Creating 'Graph.h.gcov'
+
+File 'DataStructures/Include/MST.h'
+Lines executed:100.00% of 14
+Creating 'MST.h.gcov'
+
+File 'DesignPatterns/include/MSTFactory.h'
+Lines executed:83.33% of 6
+Creating 'MSTFactory.h.gcov'
+
+File 'Algorithms/include/KruskalAlgorithm.h'
+Lines executed:100.00% of 4
+Creating 'KruskalAlgorithm.h.gcov'
+
+File 'Algorithms/include/PrimAlgorithm.h'
+Lines executed:100.00% of 2
+Creating 'PrimAlgorithm.h.gcov'
+
+File 'Algorithms/include/MSTAlgorithm.h'
+Lines executed:100.00% of 2
+Creating 'MSTAlgorithm.h.gcov'
+
+File 'Algorithms/src/KruskalAlgorithm.cpp'
+Lines executed:100.00% of 42
+Creating 'KruskalAlgorithm.cpp.gcov'
+
+File 'Algorithms/src/MSTUtils.cpp'
+Lines executed:93.97% of 116
+Creating 'MSTUtils.cpp.gcov'
+
+File 'Algorithms/src/PrimAlgorithm.cpp'
+Lines executed:100.00% of 27
+Creating 'PrimAlgorithm.cpp.gcov'
+
+File 'DataStructures/src/Graph.cpp'
+Lines executed:100.00% of 45
+Creating 'Graph.cpp.gcov'
+
+File 'DesignPatterns/src/LeaderFollower.cpp'
+Lines executed:100.00% of 31
+Creating 'LeaderFollower.cpp.gcov'
+
+File 'LfserverDemo.cpp'
+Lines executed:100.00% of 14
+Creating 'LfserverDemo.cpp.gcov'
+
+File 'Network/include/LFserver.h'
+Lines executed:100.00% of 30
+Creating 'LFserver.h.gcov'
+
+File 'DesignPatterns/include/LeaderFollower.h'
+No executable lines
+Removing 'LeaderFollower.h.gcov'
+
+File 'Network/include/Server.h'
+Lines executed:100.00% of 1
+Creating 'Server.h.gcov'
+
+File 'PipelineServerDemo.cpp'
+Lines executed:100.00% of 14
+Creating 'PipelineServerDemo.cpp.gcov'
+
+File 'Network/include/PipelineServer.h'
+Lines executed:100.00% of 14
+Creating 'PipelineServer.h.gcov'
+
+File 'DesignPatterns/include/MstComputationPipeline.h'
+Lines executed:100.00% of 30
+Creating 'MstComputationPipeline.h.gcov'
+
+File 'DesignPatterns/include/ActiveObject.h'
+Lines executed:100.00% of 42
+Creating 'ActiveObject.h.gcov'
+
+Lines executed:96.24% of 585
