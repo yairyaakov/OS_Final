@@ -95,7 +95,7 @@ TEST_CASE("Test MST Library"){
         KruskalAlgorithm kruskalRes2(g2);
         MST mst2 = kruskalRes2.findMST();
         std::string res2 = MSTUtils::mstTotalWeight(mst2);
-
+        CHECK(res2 == g2ExpectedTotalWeight);
     }
 
     SUBCASE("Test Longest distance") {
